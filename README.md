@@ -1,2 +1,2 @@
 # metro_prices
-Anakysis of metro prices since 1980
+Analysis of metro prices since 1980
